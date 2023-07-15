@@ -8,6 +8,8 @@ Sandstorm Software are a small development team that produce high quality softwa
   - Web Api
   - Asp.Net
   - MongoDB
+  - Blazor
+  - MudBlazor
 
 <!--
 **SandstormSoftware/SandstormSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
