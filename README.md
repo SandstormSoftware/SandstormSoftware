@@ -11,6 +11,7 @@ Sandstorm Software are a small development team that produce high quality softwa
   - Blazor
   - MudBlazor
   - JWT (JSON Web Token) authentication
+  - Microsoft SQL Server
 
 <!--
 **SandstormSoftware/SandstormSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
